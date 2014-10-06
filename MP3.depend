@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412133871 source:c:\users\tclark\documents\code blocks\mp3\mp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
